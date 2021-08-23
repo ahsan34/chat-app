@@ -1,0 +1,1 @@
+Put your schemas js file in this models folder.
